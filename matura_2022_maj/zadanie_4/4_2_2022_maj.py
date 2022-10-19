@@ -30,3 +30,4 @@ for linia in linie:
 print("Liczba z największą ilością czynników to {} i ich ilość to {}\n".format(naj_czyn[0], naj_czyn[1]))
 print("Liczba z największą ilością rozkładów to {} i ich ilość to {}\n".format(naj_roz[0], naj_roz[1]))
 
+plik1.close()

@@ -14,3 +14,5 @@ for linia in linie:     # iteracja przez tablice "linie" przypisując poszczegó
             first = str(linia)  # podpisz liczbę pod zmienną "first"
 
 print('Ilość liczb z warunku: {} Pierwsza zgodna: {}'.format(count_same, first)) # wypisz odpowiedź w konsoli (.format służy do podkładania zmiennych pod klamry {})
+
+plik1.close()
